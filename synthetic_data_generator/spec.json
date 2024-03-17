@@ -1,0 +1,22 @@
+{
+  "deletions": [
+    {
+      "start": 0,
+      "end": 20,
+      "prop": 0.1
+    }
+  ],
+  "insertions": [
+    {
+      "start": 20,
+      "end": 30,
+      "prop": 0.1
+    }
+  ],
+  "indels": [
+    {
+      "rel_prop": 0.5,
+      "prop": 0.1
+    }
+  ]
+}
